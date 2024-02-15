@@ -1,4 +1,12 @@
-class NumberPattern
+/*
+1
+23
+456
+78910
+1112131415
+*/
+
+class SequentialNumberPattern
 {
 	public static void main(String args[])
 	{
