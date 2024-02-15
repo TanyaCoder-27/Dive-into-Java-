@@ -1,3 +1,13 @@
+/*
+if n=5 given in cmd prompt
+1
+22
+333
+4444
+55555
+*/
+
+
 class NumberPattern1
 {
 	public static void main(String args[])
